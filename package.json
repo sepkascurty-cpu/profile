@@ -1,0 +1,12 @@
+{
+  "name": "matt-jinn-portfolio",
+  "version": "1.0.0",
+  "description": "100% clone of Matt Jinn portfolio website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
